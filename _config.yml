@@ -1,4 +1,4 @@
-name: Eray Aydın
+name: Curiosity Blog
 description: "Senior PHP Developer and Linux System Administrator, Free Software Fan, Archy (On Way Trust User), Junior Game Developer"
 url: https://erayaydin.github.io
 download: "https://github.com/erayaydin/erayaydin.github.io/archive/master.zip"
@@ -10,13 +10,13 @@ social:
   instagram:
   tumblr:
 author:
-  name: Eray AYDIN
-  bio: "Senior PHP Developer and Linux System Administrator, Free Software Fan, Archy (On Way Trust User), Junior Game Developer"
-  email: aydineray@mail.com
-  image: /assets/images/author.jpg
-  github: erayaydin
-  facebook: erayaydi
-  twitter: erayaydi
+  name: Curiosity Team
+  bio: "We are the guys behind Curiosity"
+  email: Note from oskikiboy: Getting custom mail domain. MAYBE.
+  image: /assets/images/favicon.png
+  github: oskikiboy
+  facebook: errorXD
+  twitter: DEV_Curiosity
   instagram:
   tumblr:
   show_on_post: true
